@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RadiantUwU
-- 👀 I’m interested in Python, Arduino
+A 13 year old developer in C++,Python,Lua,Roblox,Java and Typescript
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
